@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePoint_ChatGPT", "SecurePoint_ChatGPT\SecurePoint_ChatGPT.csproj", "{35C1C471-9563-4698-BC82-B73D64F7D37F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePoint_ChatGPT.Service", "SecurePoint_ChatGPT.Service\SecurePoint_ChatGPT.Service.csproj", "{F56A7A0B-F124-4930-BE5A-283C7845FB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePoint_ChatGPT.Data", "SecurePoint_ChatGPT.Data\SecurePoint_ChatGPT.Data.csproj", "{D9AB23CE-B569-4B15-90AA-EB69D0A61F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C1C471-9563-4698-BC82-B73D64F7D37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C1C471-9563-4698-BC82-B73D64F7D37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C1C471-9563-4698-BC82-B73D64F7D37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C1C471-9563-4698-BC82-B73D64F7D37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56A7A0B-F124-4930-BE5A-283C7845FB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56A7A0B-F124-4930-BE5A-283C7845FB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56A7A0B-F124-4930-BE5A-283C7845FB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56A7A0B-F124-4930-BE5A-283C7845FB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AB23CE-B569-4B15-90AA-EB69D0A61F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AB23CE-B569-4B15-90AA-EB69D0A61F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AB23CE-B569-4B15-90AA-EB69D0A61F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AB23CE-B569-4B15-90AA-EB69D0A61F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65FA35A-DB25-42C7-878C-75B29BA9AD56}
+	EndGlobalSection
+EndGlobal
